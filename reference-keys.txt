@@ -12,3 +12,4 @@ pensiones-universales
 ampliar-los-programas-existentes-de-combate-a-la-pobreza
 conclusión
 referencias
+fig:fig1
