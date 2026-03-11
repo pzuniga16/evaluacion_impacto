@@ -1,0 +1,14 @@
+resumen
+introducción
+qué-se-necesita-para-evaluar-el-impacto-de-un-programa-o-política-pública
+comparar-beneficiarios-y-no-beneficiarios-no-siempre-estima-impacto
+comparar-beneficiarios-y-no-beneficiarios-antes-y-después-del-programa-puede-ser-peor
+ejemplos-de-evaluaciones-de-impacto-rigurosas
+experimentos-aleatorios-controlados
+reglas-discontinuas-para-estimar-impacto-con-datos-administrativos
+resumen-1
+propuestas-para-evaluar-el-impacto-de-las-reformas-propuestas-al-sistema-de-protección-social
+pensiones-universales
+ampliar-los-programas-existentes-de-combate-a-la-pobreza
+conclusión
+referencias
